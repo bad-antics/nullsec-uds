@@ -102,4 +102,4 @@ For authorized security research only. Modifying vehicle ECUs may void warrantie
 
 MIT License - Part of NullSec Linux v5.0
 
-**Discord**: [discord.gg/killers](https://discord.gg/killers)
+**Discord**: [x.com/AnonAntics](https://x.com/AnonAntics)
